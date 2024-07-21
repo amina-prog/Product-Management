@@ -4,5 +4,3 @@ Description:
 This is a Java project that manages various products represented by name, location, type, and warranty. 
 The project is built with the Spring Framework and also has a web version.
 PostgreSQL is used as the database for storing the products, and Postman is used for interacting with the web application.
-
-
